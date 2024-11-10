@@ -1,0 +1,11 @@
+Step 1:
+You must have Install Node.js if not Download it and Install it's very easy to install.
+Step 2:
+Exract Files And Open Folder With VS Code. And Put Your Stripe API Key In .env File.
+Step 3:
+After Opening Folder In VS Code Open Terminal In VS Code You Will See Terminal Option In Above.
+Step 4:
+In Terminal Type 'npm install' It Will Install Some Packajes.
+Step 5:
+After Packajes Installation Type 'npm Start' in terminal it will start the server at 3000 port.
+Now open localhost:3000 at your browser. Website will start running.
